@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog">
+    <sc_cat_item_catalog action="DELETE">
+        <sc_cat_item display_value="Copy of Loaner Request">3d103023c5d002107f44a1896c354b75</sc_cat_item>
+        <sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog>
+        <sys_class_name>sc_cat_item_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 15:12:14</sys_created_on>
+        <sys_id>7d103023c5d002107f44a1896c354b77</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request2" source="x_cdltd_loaner_re2">1b4df4554c9002107f44b1e858993fd9</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request2">1b4df4554c9002107f44b1e858993fd9</sys_scope>
+        <sys_update_name>sc_cat_item_catalog_7d103023c5d002107f44a1896c354b77</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 15:12:14</sys_updated_on>
+    </sc_cat_item_catalog>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request2">1b4df4554c9002107f44b1e858993fd9</application>
+        <file_path/>
+        <instance_id>5ce02e3c83dc8a547fdd78426daad375</instance_id>
+        <instance_name>nowlearning-nlinst01470780-0001</instance_name>
+        <name>sc_cat_item_catalog_7d103023c5d002107f44a1896c354b77</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_catalog"><sc_cat_item_catalog action="INSERT_OR_UPDATE"><sc_cat_item display_value="Copy of Loaner Request">3d103023c5d002107f44a1896c354b75</sc_cat_item><sc_catalog display_value="Service Catalog">e0d08b13c3330100c8b837659bba8fb4</sc_catalog><sys_class_name>sc_cat_item_catalog</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-17 15:12:14</sys_created_on><sys_id>7d103023c5d002107f44a1896c354b77</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Service Catalog.Copy of Loaner Request</sys_name><sys_package display_value="Loaner Request2" source="x_cdltd_loaner_re2">1b4df4554c9002107f44b1e858993fd9</sys_package><sys_policy/><sys_scope display_value="Loaner Request2">1b4df4554c9002107f44b1e858993fd9</sys_scope><sys_update_name>sc_cat_item_catalog_7d103023c5d002107f44a1896c354b77</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-17 15:12:14</sys_updated_on></sc_cat_item_catalog></record_update>]]></payload>
+        <payload_hash>-2119070517</payload_hash>
+        <record_name>Service Catalog.Copy of Loaner Request</record_name>
+        <reverted_from/>
+        <source>dbbe356a511002107f44a1ac1d023d84</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 15:12:14</sys_created_on>
+        <sys_id>35103023c5d002107f44a1896c354b7b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18db7a005f10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 15:12:14</sys_updated_on>
+        <type>Catalog Items Catalog</type>
+        <update_guid>79103023cfd00210349e977040c0a17a</update_guid>
+        <update_guid_history>79103023cfd00210349e977040c0a17a:-2119070517</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Service Catalog.Copy of Loaner Request">7c20f023c5d002107f44a1896c354b8d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-17 15:12:26</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_catalog">sc_cat_item_catalog</sys_db_object>
+        <sys_id>089cf5743f6242bfa0d2c779c83925e9</sys_id>
+        <sys_metadata>7d103023c5d002107f44a1896c354b77</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Service Catalog.Copy of Loaner Request</sys_name>
+        <sys_package display_value="Loaner Request2" source="x_cdltd_loaner_re2">1b4df4554c9002107f44b1e858993fd9</sys_package>
+        <sys_parent display_value="">3d103023c5d002107f44a1896c354b75</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request2">1b4df4554c9002107f44b1e858993fd9</sys_scope>
+        <sys_scope_delete display_value="">1d370784e26d468887f7ac9a01e92640</sys_scope_delete>
+        <sys_update_name>sc_cat_item_catalog_7d103023c5d002107f44a1896c354b77</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_catalog_7d103023c5d002107f44a1896c354b77">35103023c5d002107f44a1896c354b7b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-17 15:12:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
